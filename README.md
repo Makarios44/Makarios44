@@ -34,7 +34,7 @@
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white);
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white);
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
 
 
 <img align="right" alt="Van" heigth="200" width="200" src="https://cdn.discordapp.com/attachments/611323880497217580/1210352945053437983/gifmaker_me_2.gif?ex=66341405&is=6632c285&hm=a57ddafcbdbb0a8ae3b05291b13396a699bf9a6521b5756bc04d8eed8be0e728&"> 
