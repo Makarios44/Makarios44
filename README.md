@@ -6,7 +6,7 @@
 
 I build and ship production web systems for real clients, and I support users and infrastructure day to day.
 
-## 🚀 Featured projects
+## Featured projects
 
 ### [Margaret School](https://github.com/Makarios44/margaretschool) — school management system *(in production)*
 Administrative system for a private school in Pipa, Brazil: student records, enrollment and re-enrollment by secure link, tuition billing with fines, interest and receipts, official school documents, mobile-first daily attendance, school calendar with `.ics` feed, online pre-enrollment, photo albums with privacy controls and a step-by-step tutorial for non-technical staff.
